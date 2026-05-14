@@ -1,0 +1,19 @@
+{
+    "breakpoints": {
+      "402": {
+        "name": "product-details-image",
+        "viewportWidth": 402,
+        "width": 402,
+        "height": 229,
+        "bones": [
+          [
+            3.9801,
+            16,
+            192.0398,
+            213,
+            12
+          ]
+        ]
+      }
+    }
+  }
